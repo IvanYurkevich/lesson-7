@@ -1,0 +1,28 @@
+@media (max-width: 650px) {
+    .meny { 
+        float: none;
+        width: 100%;
+        text-align: center;
+        font-size: 22px;
+
+    }
+    .meny li {
+        list-style-type: none;
+    }
+    .header {
+        width: 100%;
+    }
+    .content {
+        margin-right: 40px;
+        padding: 20px;
+        width: 100%;
+    }
+    .footer {
+        width: 100%;
+    }
+    .content img {
+       
+        width: 70%;
+    }
+    
+}
