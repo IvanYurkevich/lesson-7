@@ -1,0 +1,17 @@
+@media print {
+    .link1::after {
+        content: ' Ssilka https://chesspro.ru/statistic/botvinnik.shtml';
+     background-color: burlywood;
+        
+    }
+    .link2::after {
+        content: ' Ssilka https://chesspro.ru/statistic/botvinnik.shtml';
+     background-color: burlywood;
+        
+    }
+    .link3::after {
+        content: ' Ssilka https://chesspro.ru/statistic/botvinnik.shtml';
+     background-color: burlywood;
+        
+    }
+}
