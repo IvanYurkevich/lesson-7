@@ -1,0 +1,21 @@
+ .container {
+      width:100%;
+  }
+  .star {
+   background-image: url(./star0.png);
+   background-repeat: no-repeat;
+    display: inline-block;
+    height: 75px;
+    width: 75px;
+   }
+   .star1 {
+       margin-left: 100px;
+   }
+   .star:hover {
+   background-image: url(./star1.png);
+   display: inline-block;
+   height: 75px;
+   width: 75px;
+  
+   }
+ 
